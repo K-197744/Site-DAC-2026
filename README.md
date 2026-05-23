@@ -1,7 +1,7 @@
 # Site-DAC-2026
 # EquipFlow — Website de Apresentação
 
-Link Do Site: https://k-197744.github.io/Site-DAC-2026/
+Link Do Site:
 
 Site desenvolvido para apresentação do projeto **EquipFlow**, um protótipo acadêmico full stack criado no contexto do DAC 2026 do curso de TADS da UCDB.
 
