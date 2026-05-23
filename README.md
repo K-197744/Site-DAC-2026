@@ -1,4 +1,3 @@
-## Site-DAC 2026
 ## Sobre o Projeto
 
 O **EquipFlow** é um protótipo web full stack desenvolvido para controlar o fluxo de empréstimo e devolução de equipamentos didáticos do cenário fictício **NRDT (Núcleo de Recursos Didáticos em Tecnologia)**. O projeto foi criado no contexto do DAC 2026 do curso de TADS da UCDB, com foco em organização, rastreabilidade, acessibilidade e eficiência operacional.
